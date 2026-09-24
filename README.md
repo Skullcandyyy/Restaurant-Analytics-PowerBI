@@ -126,10 +126,3 @@ Restaurant-Analytics-PowerBI/
 - GitHub: [Add your GitHub profile link]
 - LinkedIn: [Add your LinkedIn profile link]
 
-## ⚠️ Before Publishing
-
-- Add your actual `.pbix` file to the `Dashboard/` folder.
-- Replace all bracketed placeholders.
-- Add your verified dashboard insights.
-- Document dataset source and usage terms in `Dataset/README.md`.
-- Do not upload confidential, licensed, or personally identifiable data.
