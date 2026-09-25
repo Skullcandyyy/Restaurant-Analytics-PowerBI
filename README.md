@@ -117,7 +117,7 @@ Restaurant-Analytics-PowerBI/
 
 - **Notion Case Study:** [Add your published Notion link]
 - **Power BI Service Report:** [Add link if published]
-- **GitHub Repository:** [Add repository link]
+- **GitHub Repository:** https://github.com/Skullcandyyy/Restaurant-Analytics-PowerBI
 
 ## 👤 Author
 
