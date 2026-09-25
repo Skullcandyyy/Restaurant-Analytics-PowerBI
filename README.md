@@ -123,6 +123,6 @@ Restaurant-Analytics-PowerBI/
 
 **Rohit Kumar**
 
-- GitHub: [Add your GitHub profile link]
-- LinkedIn: [Add your LinkedIn profile link]
+- GitHub: [Add your GitHub profile link
+- LinkedIn: https://www.linkedin.com/in/rohitkumar-io/
 
