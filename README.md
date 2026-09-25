@@ -15,72 +15,60 @@
 
 </p>
 
----
-
-# 📌 Project Overview
+## 📌 Project Overview
 
 The **Restaurant Analytics Dashboard** is an interactive Power BI Business Intelligence project designed to analyze restaurant sales, customer behavior, restaurant performance, delivery operations, ratings, and business trends.
 
-The project transforms raw restaurant and order data into an interactive analytical solution that helps stakeholders understand business performance and identify operational opportunities.
+The project transforms raw restaurant and order data into meaningful business insights through interactive dashboards, KPIs, DAX measures, and visual analysis.
 
----
-
-# 🎯 Business Problem
+## 🎯 Business Problem
 
 Restaurant businesses generate large volumes of data across orders, customers, restaurants, revenue, ratings, and delivery operations.
 
-Without a centralized analytical dashboard, it becomes difficult to:
+Without a centralized analytical solution, it becomes difficult to:
 
 - Monitor revenue and order performance
 - Understand customer behavior
 - Identify high-performing restaurants
-- Analyze ratings and customer satisfaction
-- Track delivery delays
+- Analyze customer ratings
+- Track delivery performance
 - Understand cancellation patterns
-- Compare restaurant and city performance
-- Identify opportunities for operational improvement
+- Compare restaurant performance
+- Identify operational improvement opportunities
 
----
-
-# 🎯 Project Objective
+## 🎯 Project Objective
 
 The objective of this project is to develop an interactive Power BI dashboard that provides a centralized view of restaurant business performance.
 
-The dashboard focuses on:
+The analysis focuses on:
 
-- Revenue analysis
-- Order analysis
+- Revenue performance
+- Order trends
 - Customer behavior
 - Restaurant performance
 - Delivery operations
-- Ratings analysis
+- Ratings
 - Advanced business insights
 
----
-
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
 | **Power BI** | Dashboard development & visualization |
 | **DAX** | Measures & analytical calculations |
 | **Power Query** | Data cleaning & transformation |
-| **Excel / CSV** | Dataset |
+| **Excel** | Dataset & data preparation |
 | **Data Modeling** | Relationships & analytical structure |
 
----
+## 📊 Dashboard Pages
 
-# 📊 Dashboard Pages
+The project contains **6 interactive dashboard pages**.
 
-The project contains **7 interactive dashboard pages**.
+### 01 — 📊 Executive Overview
 
----
+Provides a high-level overview of overall restaurant business performance.
 
-## 01 — 📊 Executive Overview
-
-Provides a high-level overview of restaurant business performance.
-
-### Focus Areas
+**Focus Areas**
 
 - Total revenue
 - Total orders
@@ -88,114 +76,85 @@ Provides a high-level overview of restaurant business performance.
 - Overall KPIs
 - Revenue trends
 - Order trends
-- Business performance overview
+- Business performance
 
-### Preview
+**Dashboard Preview**
 
 ![Executive Overview](Screenshots/01-executive-overview.png)
 
----
+### 02 — 👥 Customer Analysis
 
-## 02 — 👥 Customer Analytics
+Analyzes customer activity and purchasing behavior.
 
-Analyzes customer behavior and customer engagement.
+**Focus Areas**
 
-### Focus Areas
-
-- Customer segmentation
-- Repeat customers
-- Customer behavior
-- Signup trends
 - Customer activity
-- Retention-related analysis
+- Customer segments
+- Repeat customers
+- Customer trends
+- Order behavior
+- Customer contribution
 
-### Preview
+**Dashboard Preview**
 
-![Customer Analytics](Screenshots/02-customer-analytics.png)
+![Customer Analysis](Screenshots/02-customer-analysis.png)
 
----
+### 03 — 🍽️ Restaurant Performance
 
-## 03 — 🍽️ Restaurant Performance
+Analyzes and compares restaurant-level performance.
 
-Compares restaurant performance across different business metrics.
+**Focus Areas**
 
-### Focus Areas
-
-- Top restaurants
 - Restaurant revenue
 - Order volume
-- Cuisine performance
-- Restaurant ratings
-- Restaurant comparisons
+- Restaurant rankings
+- Ratings
+- Restaurant performance
+- Cuisine-level analysis
 
-### Preview
+**Dashboard Preview**
 
 ![Restaurant Performance](Screenshots/03-restaurant-performance.png)
 
----
-
-## 04 — 🚚 Delivery & Operations
+### 04 — 🚚 Delivery Operations
 
 Analyzes delivery performance and operational efficiency.
 
-### Focus Areas
+**Focus Areas**
 
+- Delivery performance
 - Delivery time
 - Late deliveries
-- Cancellation analysis
-- Delivery performance
 - Operational trends
 - Order fulfillment
+- Delivery-related insights
 
-### Preview
+**Dashboard Preview**
 
-![Delivery & Operations](Screenshots/04-delivery-operations.png)
+![Delivery Operations](Screenshots/04-delivery-operations.png)
 
----
+### 05 — 🔎 Advanced Insights
 
-## 05 — 🔎 Advanced Insights
+Provides deeper analytical insights using calculated metrics and business relationships.
 
-Provides deeper analysis using calculated metrics and relationships between business variables.
+**Focus Areas**
 
-### Focus Areas
-
-- Order value
-- Rating buckets
-- Revenue relationships
-- Cost analysis
+- Advanced KPIs
 - Customer behavior
-- Advanced KPI analysis
+- Revenue relationships
+- Order value
+- Rating analysis
+- Business trends
 
-### Preview
+**Dashboard Preview**
 
 ![Advanced Insights](Screenshots/05-advanced-insights.png)
 
----
-
-## 06 — 🏪 Restaurant Details
-
-Provides detailed restaurant-level analysis.
-
-### Focus Areas
-
-- Restaurant performance
-- Revenue
-- Orders
-- Ratings
-- Customer activity
-- Operational metrics
-
-### Preview
-
-![Restaurant Details](Screenshots/06-restaurant-details.png)
-
----
-
-## 07 — 📈 Summary
+### 06 — 📈 Summary
 
 Provides a consolidated view of the major findings from the complete analysis.
 
-### Focus Areas
+**Focus Areas**
 
 - Revenue performance
 - Order performance
@@ -203,96 +162,84 @@ Provides a consolidated view of the major findings from the complete analysis.
 - Restaurant performance
 - Delivery efficiency
 - Ratings
-- Key business findings
+- Business findings
 
-### Preview
+**Dashboard Preview**
 
-![Summary](Screenshots/07-summary.png)
+![Summary](Screenshots/06-summary.png)
 
----
+## 🔍 Key Business Insights
 
-# 🔍 Key Business Insights
+### 💰 Revenue & Order Performance
 
-### 💰 Revenue & Orders
+The dashboard analyzes **200K+ orders** and approximately **₹165M in revenue**, providing visibility into the scale and performance of the restaurant business.
 
-The dashboard analyzes **200K+ orders** and approximately **₹165M in revenue**, providing visibility into overall business scale and performance.
+### ⭐ Customer Experience
 
-### ⭐ Customer Satisfaction
-
-The overall average rating is approximately **3.70**, allowing customer experience to be analyzed across restaurants and other business segments.
+The overall average rating is approximately **3.70**, allowing customer satisfaction to be analyzed across restaurants and other business segments.
 
 ### 🚚 Delivery Performance
 
-Approximately **48.12% of deliveries are identified as late**, highlighting delivery performance as an important operational area for analysis.
+Approximately **48.12% of deliveries are identified as late**, making delivery efficiency an important operational area for further analysis.
 
 ### 👥 Customer Behavior
 
-Customer analysis provides visibility into repeat customers, customer activity, and signup patterns.
+Customer analysis provides visibility into customer activity, repeat purchasing behavior, and ordering patterns.
 
 ### 🍽️ Restaurant Performance
 
-Restaurant-level analysis enables comparison of revenue, orders, ratings, and cuisine performance.
+Restaurant-level analysis enables comparison of revenue, order volume, ratings, and overall performance.
 
 ### 📦 Operational Performance
 
-Delivery and cancellation analysis helps identify operational patterns that can affect customer experience and business performance.
+Delivery and operational analysis helps identify patterns that can influence customer experience and business efficiency.
 
----
+## 💡 Business Solution
 
-# 💡 Business Solution
+The dashboard provides a centralized Business Intelligence solution that can help restaurant stakeholders:
 
-The dashboard provides a centralized Business Intelligence solution for restaurant stakeholders.
-
-It can be used to:
-
-- Monitor revenue and order KPIs
-- Track restaurant performance
-- Understand customer behavior
-- Analyze customer ratings
-- Monitor delivery efficiency
-- Investigate cancellation patterns
-- Compare restaurants and cuisines
-- Identify operational improvement opportunities
-
----
-
-# 📈 Business Impact
-
-The analytical solution helps stakeholders:
-
-- Monitor business performance from a single dashboard
-- Identify important revenue and order trends
-- Understand customer behavior
+- Monitor important KPIs
+- Track revenue and order trends
 - Compare restaurant performance
-- Track delivery efficiency
+- Understand customer behavior
 - Monitor customer satisfaction
-- Support data-driven operational decisions
+- Analyze delivery efficiency
+- Identify operational issues
+- Support data-driven decisions
 
----
+## 📈 Business Impact
 
-# 🧠 Analytical Capabilities
+The analytical solution provides stakeholders with a centralized view of restaurant performance and can support:
+
+- Faster performance monitoring
+- Better understanding of customer behavior
+- Restaurant-level comparison
+- Delivery performance monitoring
+- Revenue analysis
+- Customer experience analysis
+- Data-driven operational planning
+
+## 🧠 Analytical Capabilities
 
 | Capability | Implementation |
 |---|---|
 | KPI Analysis | Power BI Cards |
 | Revenue Analysis | DAX Measures |
 | Order Analysis | KPI & Trend Visuals |
-| Customer Analysis | Segmentation & Trends |
+| Customer Analysis | Customer Metrics |
 | Restaurant Comparison | Bar & Column Charts |
 | Delivery Analysis | Operational KPIs |
-| Rating Analysis | Rating Distribution |
+| Rating Analysis | Rating Visuals |
 | Trend Analysis | Line Charts |
 | Interactive Filtering | Slicers |
 | Drill-through | Restaurant-level analysis |
 | Data Transformation | Power Query |
 | Data Modeling | Power BI Relationships |
 
----
-
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
-Restaurant-Analytics/
+Restaurant-Analytics-PowerBI/
 │
 ├── README.md
 │
@@ -301,14 +248,14 @@ Restaurant-Analytics/
 │
 ├── Screenshots/
 │   ├── 01-executive-overview.png
-│   ├── 02-customer-analytics.png
+│   ├── 02-customer-analysis.png
 │   ├── 03-restaurant-performance.png
 │   ├── 04-delivery-operations.png
 │   ├── 05-advanced-insights.png
-│   ├── 06-restaurant-details.png
-│   └── 07-summary.png
+│   └── 06-summary.png
 │
 ├── Dataset/
-│   └── README.md
+│   └── Restaurant_Analytics_Dataset.xlsx
 │
-└── .gitignore
+└── DAX/
+    └── DAX_Measures.txt
